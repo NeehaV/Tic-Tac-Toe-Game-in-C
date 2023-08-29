@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game-in-C
-It is a tic tac toe game in C programming language.
+
 
 
 ![tic-tac](https://github.com/NeehaV/Tic-Tac-Toe-Game-in-C/assets/94872643/e6b7f1d7-c033-4396-90d2-5849b26835b4)
